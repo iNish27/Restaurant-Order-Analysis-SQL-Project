@@ -1,39 +1,49 @@
 # 📊 Restaurant-Order-Analysis
 ## 📝 Project Description
-This is a My SQL project in which I analyzed menu performance and uncover customer food preferences.
+This project uses MySQL to analyze restaurant menu performance and uncover customer food preferences.
 
 ---
 
 ## 📌Objective
-As a Data analyst I have to analyze and Query to get most ordered food items and which customer spend more on orders.
+As a Data Analyst, the goal was to write SQL queries to identify:
+- The most frequently ordered food items.
+- The customer order with the highest total spend.
 
 ## 🎯 Purpose
-Enable Restaurant Owner to optimize menu food items and provide exclusive offer for their loyal customers.
+Help the restaurant owner optimize the menu by:
+- Highlighting top-performing food items.
+- Identifying loyal/high-spending customers for targeted promotions.
+
+
 
 ## ✅ Outcome
-Through SQL queries I get outcome as -
-Hamburger is the most ordered food item and
-Order Id 440 Spends more on food orders.
+Key findings from the analysis:
+- Hamburger (American cuisine) is the most frequently ordered item.
+- Order ID 440 had the highest total spend.
+
+
 
 ---
 
-## 🧰 Tools Used  
-- My SQL, MS-Excel
-- Power Query Editor, Basic SQL queries - (SELECT, WHERE GROUP BY, ORDER BY)
-- Window and ranking Functions
+## 🧰 Tools & Techniques
+- Tools: MySQL, MS Excel
+- Techniques: SQL Queries: SELECT, WHERE, GROUP BY, ORDER BY, JOIN
+- Window functions and CTEs for advanced insights
+- Power Query Editor for data transformation in Excel
 
 ---
 
-## 📂 Project Files
-| File Name | Description |
-|-----------|-------------|
-| `https://github.com/iNish27/Restaurant-Order-Analysis-SQL-Project/blob/main/Restaurant%20Order%20Analysis%20SQL%20Queries.sql` | Final SQL Queries |
-| `https://github.com/iNish27/Restaurant-Order-Analysis-SQL-Project/blob/main/Menu.csv` | Sample employee data used for analysis |
-| `https://github.com/iNish27/Restaurant-Order-Analysis-SQL-Project/blob/main/Orders.csv` | Sample employee data used for analysis |
-| `https://github.com/iNish27/Restaurant-Order-Analysis-SQL-Project/blob/main/Restaurant_Order_Analysis_Project.pptx` |The Final Project|
+| File Name                                                                                                                                                                   | Description                     |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
+| [`Restaurant_Order_Analysis_SQL_Queries.sql`](https://github.com/iNish27/Restaurant-Order-Analysis-SQL-Project/blob/main/Restaurant%20Order%20Analysis%20SQL%20Queries.sql) | Final SQL queries               |
+| [`Menu.csv`](https://github.com/iNish27/Restaurant-Order-Analysis-SQL-Project/blob/main/Menu.csv)                                                                           | Menu dataset used for analysis  |
+| [`Orders.csv`](https://github.com/iNish27/Restaurant-Order-Analysis-SQL-Project/blob/main/Orders.csv)                                                                       | Order dataset used for analysis |
+| [`Restaurant_Order_Analysis_Project.pptx`](https://github.com/iNish27/Restaurant-Order-Analysis-SQL-Project/blob/main/Restaurant_Order_Analysis_Project.pptx)               | Final presentation slide deck   |
+
 
 ---
 
-## 📸 Dashboard Preview  
-![Dashboard](https://github.com/iNish27/Restaurant-Order-Analysis-SQL-Project/blob/main/Restaurant_Order_Analysis_Project.pptx)
+## 📸 Dashboard Preview
+📎 [Open the PPTX file to view the dashboard]
+(Unfortunately, GitHub cannot display PPTX previews inline.)
 
